@@ -4,8 +4,7 @@ Welcome to **Pet Doctor**, a modern and responsive landing page for a veterinary
 
 ## 🚀 Live Preview
 
-> [View Live Project](https://your-live-demo-link.com)  
-(Replace with actual GitHub Pages or Netlify link if deployed.)
+> [View Live Project](https://lucyshai.github.io/Pet-Doctor-Website/)  
 
 ---
 
